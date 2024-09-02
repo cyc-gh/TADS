@@ -9,13 +9,6 @@ We recommend that you can first organize the video frames into 966 accident fram
 Here are some accident frame examples:
 ![Image example](https://github.com/cyc-gh/TADS/blob/main/img-folder/snapshots_accidents.PNG)
 ## Citation
-If you found the dataset is useful, please cite our paper:
-@article{chai2024tads,
-  title={TADS: a novel dataset for road traffic accident detection from a surveillance perspective},
-  author={Chai, Yachuang and Fang, Jianwu and Liang, Haoquan and Silamu, Wushouer},
-  journal={The Journal of Supercomputing},
-  pages={1--24},
-  year={2024},
-  publisher={Springer}
-}
+If you found the dataset is useful, please cite our paper:  
+Chai Y, Fang J, Liang H, et al. TADS: a novel dataset for road traffic accident detection from a surveillance perspective[J]. The Journal of Supercomputing, 2024: 1-24.
 
